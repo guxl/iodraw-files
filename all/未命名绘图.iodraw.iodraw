@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="yrEoEV5VqNiRWEnAdHuo-10" value="ObjectManager&lt;div&gt;对象管理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="40" width="120" height="40" as="geometry" />
+          <mxGeometry x="220" y="170" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yrEoEV5VqNiRWEnAdHuo-11" value="SchemaStore&lt;div&gt;关系仓库&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="450" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yrEoEV5VqNiRWEnAdHuo-12" value="StateApplier&lt;div&gt;执行器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="260" width="120" height="40" as="geometry" />
+          <mxGeometry x="230" y="60" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yrEoEV5VqNiRWEnAdHuo-13" value="UnredoManager&lt;div&gt;撤销回退管理器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="40" width="120" height="40" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="-60" y="150" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yrEoEV5VqNiRWEnAdHuo-15" value="ObjectStore&lt;div&gt;数据仓库&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="120" width="120" height="40" as="geometry" />
+          <mxGeometry x="320" y="450" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yrEoEV5VqNiRWEnAdHuo-16" value="CascadeEngine&lt;div&gt;级联删除引擎&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="230" width="120" height="40" as="geometry" />
