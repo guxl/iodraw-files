@@ -31,6 +31,9 @@
         <mxCell id="yrEoEV5VqNiRWEnAdHuo-14" value="Notifier&lt;div&gt;消息发布服务&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="200" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="yrEoEV5VqNiRWEnAdHuo-15" value="ObjectStore&lt;div&gt;数据仓库&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
