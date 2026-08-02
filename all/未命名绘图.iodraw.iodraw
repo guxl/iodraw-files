@@ -148,7 +148,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yrEoEV5VqNiRWEnAdHuo-38" value="Notifier&lt;div&gt;消息发布服务&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yrEoEV5VqNiRWEnAdHuo-38" value="&lt;div&gt;EnventRecorder&lt;/div&gt;&lt;div&gt;消息记录服务&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="430" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
