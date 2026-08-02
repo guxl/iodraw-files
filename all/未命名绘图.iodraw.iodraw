@@ -11,7 +11,7 @@
           <mxGeometry x="240" y="50" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yrEoEV5VqNiRWEnAdHuo-12" value="StateApplier&lt;div&gt;执行器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="210" width="120" height="40" as="geometry" />
+          <mxGeometry x="90" y="250" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yrEoEV5VqNiRWEnAdHuo-13" value="UnredoManager&lt;div&gt;撤销回退管理器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="600" width="120" height="40" as="geometry" />
@@ -131,6 +131,13 @@
         </mxCell>
         <mxCell id="yrEoEV5VqNiRWEnAdHuo-38" value="&lt;div&gt;EnventRecorder&lt;/div&gt;&lt;div&gt;消息记录服务&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="410" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yrEoEV5VqNiRWEnAdHuo-39" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="384" y="360" as="sourcePoint" />
+            <mxPoint x="406" y="480" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
