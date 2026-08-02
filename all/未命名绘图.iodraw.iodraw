@@ -8,16 +8,16 @@
           <mxGeometry x="310" y="390" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yrEoEV5VqNiRWEnAdHuo-11" value="SchemaStore&lt;div&gt;关系仓库&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="20" width="120" height="40" as="geometry" />
+          <mxGeometry x="240" y="150" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yrEoEV5VqNiRWEnAdHuo-12" value="StateApplier&lt;div&gt;执行器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="380" y="60" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yrEoEV5VqNiRWEnAdHuo-13" value="UnredoManager&lt;div&gt;撤销回退管理器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="510" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yrEoEV5VqNiRWEnAdHuo-14" value="Notifier&lt;div&gt;消息发布服务&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="150" width="120" height="40" as="geometry" />
+          <mxGeometry x="-10" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yrEoEV5VqNiRWEnAdHuo-15" value="ObjectStore&lt;div&gt;数据仓库&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="50" width="120" height="40" as="geometry" />
@@ -84,6 +84,13 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="271" y="90" as="sourcePoint" />
             <mxPoint x="291" y="403" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yrEoEV5VqNiRWEnAdHuo-28" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="374" y="400" as="sourcePoint" />
+            <mxPoint x="316" y="200" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
