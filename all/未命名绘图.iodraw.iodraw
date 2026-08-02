@@ -23,7 +23,7 @@
           <mxGeometry x="40" y="50" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yrEoEV5VqNiRWEnAdHuo-16" value="CascadeEngine&lt;div&gt;级联删除引擎&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="230" width="120" height="40" as="geometry" />
+          <mxGeometry x="640" y="300" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yrEoEV5VqNiRWEnAdHuo-17" value="ReferenceIndex&lt;div&gt;反向索引仓库&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="80" width="120" height="40" as="geometry" />
