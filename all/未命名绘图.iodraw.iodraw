@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 HBPC/12.1.4.300" version="24.7.17">
   <diagram name="第 1 页" id="JwteHY-iuQlbSy9WVEBn">
-    <mxGraphModel dx="954" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1781" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="200" y="40" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yrEoEV5VqNiRWEnAdHuo-11" value="SchemaStore&lt;div&gt;关系仓库&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="190" width="120" height="40" as="geometry" />
+          <mxGeometry x="350" y="500" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yrEoEV5VqNiRWEnAdHuo-12" value="StateApplier&lt;div&gt;执行器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="260" width="120" height="40" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="570" y="350" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yrEoEV5VqNiRWEnAdHuo-18" value="TransactionRunner&lt;div&gt;事务管理器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="360" width="120" height="40" as="geometry" />
+          <mxGeometry x="-30" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yrEoEV5VqNiRWEnAdHuo-20" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="yrEoEV5VqNiRWEnAdHuo-10" target="yrEoEV5VqNiRWEnAdHuo-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -73,7 +73,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yrEoEV5VqNiRWEnAdHuo-26" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.671;entryY=0.825;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yrEoEV5VqNiRWEnAdHuo-10" target="yrEoEV5VqNiRWEnAdHuo-18">
+        <mxCell id="yrEoEV5VqNiRWEnAdHuo-26" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="yrEoEV5VqNiRWEnAdHuo-10" target="yrEoEV5VqNiRWEnAdHuo-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="280" y="90" as="sourcePoint" />
             <mxPoint x="460" y="470" as="targetPoint" />
