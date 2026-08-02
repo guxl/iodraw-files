@@ -32,7 +32,7 @@
           <mxGeometry x="210" y="150" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yrEoEV5VqNiRWEnAdHuo-13" value="UnredoManager&lt;div&gt;撤销回退管理器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="210" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
