@@ -11,7 +11,7 @@
           <mxGeometry x="240" y="150" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yrEoEV5VqNiRWEnAdHuo-12" value="StateApplier&lt;div&gt;执行器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="60" width="120" height="40" as="geometry" />
+          <mxGeometry x="350" y="250" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yrEoEV5VqNiRWEnAdHuo-13" value="UnredoManager&lt;div&gt;撤销回退管理器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="510" width="120" height="40" as="geometry" />
